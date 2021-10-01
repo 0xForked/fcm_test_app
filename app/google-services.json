@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "991369191835",
+    "firebase_url": "https://fookipoke-studio.firebaseio.com",
+    "project_id": "fookipoke-studio",
+    "storage_bucket": "fookipoke-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991369191835:android:d2318b33f7d9d1c8a4c13e",
+        "android_client_info": {
+          "package_name": "com.eabsentbsg.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991369191835-vq7k35q7ecfp96kip32h96l797796f8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2MIpAwf2oVZHKRbHaPfEhs0lASxEuug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991369191835-vq7k35q7ecfp96kip32h96l797796f8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991369191835:android:cf934df76e89f06b",
+        "android_client_info": {
+          "package_name": "id.bakode.utfskit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991369191835-vq7k35q7ecfp96kip32h96l797796f8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2MIpAwf2oVZHKRbHaPfEhs0lASxEuug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991369191835-vq7k35q7ecfp96kip32h96l797796f8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991369191835:android:80bf4de382ea868ea4c13e",
+        "android_client_info": {
+          "package_name": "tech.fpslogic.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991369191835-vq7k35q7ecfp96kip32h96l797796f8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2MIpAwf2oVZHKRbHaPfEhs0lASxEuug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991369191835-vq7k35q7ecfp96kip32h96l797796f8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
